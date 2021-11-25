@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "name": "Mercy",
+      "email": "mercy@example.com",
+      "mobile": "1234567890",
+      "password": "password",
+      "country": "nigeria",
+      "gender": "male",
+      "hobbies": "music",
+      "id": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "name": "Faith",
+      "email": "faith@example.com",
+      "mobile": "0987654321",
+      "password": "password",
+      "country": "sriLanka",
+      "gender": "female",
+      "hobbies": "reading",
+      "id": "89ef9c9f-7821-4607-9a1b-8a2b18e4fecd"
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Wash the dishes",
+      "description": "Some data here ",
+      "date": "2021-11-06T09:00",
+      "status": "completed",
+      "id": "2d7627e6-75d1-4374-91e4-9143af52cac5",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "name": "Mercy",
+      "description": "hjgjhgkjhgkjhgkjh",
+      "date": "2021-11-19T08:55",
+      "status": "inprogress",
+      "id": "2e9fa271-cc79-429b-a5aa-cc7242feaf85",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "name": "Eat Good food",
+      "description": "Eat good food not junk foods",
+      "date": "2021-11-19T09:13",
+      "status": "completed",
+      "id": "6867073a-01e8-4388-a9a8-6c0b827f1b5b",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "name": "Merciese",
+      "description": "hello wor",
+      "date": "2021-11-19T08:55",
+      "status": "inprogress",
+      "id": "124e65fd-7639-4a7e-b31c-a64838c43069",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "name": "Mercy",
+      "description": "hjgjhgkjhgkjhgkjh",
+      "date": "2021-11-19T08:55",
+      "status": "inprogress",
+      "id": "2686d5e2-1766-4e9a-8137-614f4790ec7a",
+      "userId": "89ef9c9f-7821-4607-9a1b-8a2b18e4fecd"
+    },
+    {
+      "name": "Hello world",
+      "description": "Some description ",
+      "date": "2021-11-19T16:16",
+      "status": "inprogress",
+      "id": "974c9f99-4440-4ac2-959b-bda1d8cee330",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Doloribus recusandae dignissimos",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit reiciendis sapiente, quasi amet sint voluptatibus nihil doloribus recusandae dignissimos earum.",
+      "id": "1",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "title": "Quasi amet sint voluptatibus",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet, excepturi tenetur iste totam temporibus vitae facilis? Facilis fugit quos iste dolor asperiores minima beatae iusto repellendus, porro culpa nostrum, perferendis dolorum voluptatibus exercitationem consequuntur at ut modi commodi explicabo sequi. Iste odit minus quasi temporibus commodi quibusdam ex obcaecati hic.",
+      "id": "2",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "title": "Amet consectetur adipisicing",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum porro ullam dolor saepe earum libero, quis nisi sit, necessitatibus delectus fuga dolorem laboriosam aut qui exercitationem perferendis accusantium inventore! Ratione!",
+      "id": "3",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "body": "consectetur adipisicing elit. Laborum porro ullam dolor saepe earum libero, quis nisi sit, necessitatibus delectus fuga dolorem laboriosam aut qui exercitationem perferendis accusantium inventore! Ratione!",
+      "id": "4",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "title": "Suscipit reiciendis sapiente",
+      "body": "Facilis fugit quos iste dolor asperiores minima beatae iusto repellendus, porro culpa nostrum, perferendis dolorum voluptatibus exercitationem consequuntur at ut modi commodi explicabo sequi. Iste odit minus quasi temporibus commodi quibusdam ex obcaecati hic.",
+      "id": "5",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet.",
+      "body": "Suscipit reiciendis sapiente, quasi amet sint voluptatibus nihil doloribus recusandae dignissimos earum.",
+      "id": "6",
+      "userId": "a1e9bd52-eae3-4ba7-86e3-52a343eec73c"
+    }
+  ]
+}
